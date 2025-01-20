@@ -4,7 +4,7 @@ Here’s a more detailed version with additional points:
 - 👀 I’m interested in machine learning, AI, web development, data science, and backend technologies.
 - 🌱 I’m currently learning advanced Python, deep learning, and working on projects with Express.js and MongoDB.
 - 💞️ I’m looking to collaborate on open-source machine learning projects, web apps, and building scalable backend systems.
-- 📫 How to reach me: You can reach me at vaishnavimore014@gmail.com or through GitHub issues for any collaborations or queries.
+- 📫 How to reach me: You can reach me at vaishnvimore21@gmail.com or through GitHub issues for any collaborations or queries.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding challenges, and in my free time, I also enjoy exploring new programming languages and technologies.
 - 🧑‍💻 I’m also working on improving my skills in cloud computing and containerization with Docker.
